@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoBoat</string>
+    <string name="message_marque">Saisir la marque</string>
+    <string name="message_modele">Saisir le modele</string>
+    <string name="message_liste">Sélectionnez un type de véhicule</string>
+    <string-array name="type_arrays">
+        <item>Sélectionnez un type de véhicule</item>
+        <item>Voiture</item>
+        <item>Bateau</item>
+        <item>Moto</item>
+    </string-array>
+    <string name="message_km">Saisir le nombre de km</string>
+    <string name="message_heures">Saisir le nombre d\'heures</string>
+    <string name="message_send">Envoyer</string>
+    <string name="message_power">Saisir le nombre de CV</string>
+    <string name="msg_marque">Marque : </string>
+    <string name="msg_model">Modele : </string>
+    <string name="msg_heures">Nombre heures : </string>
+    <string name="msg_CV">Nombre chevaux : </string>
+    <string name="msg_km">Nombre Kilometres : </string>
+</resources>
